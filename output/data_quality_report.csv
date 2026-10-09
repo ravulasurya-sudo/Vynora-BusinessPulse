@@ -1,0 +1,14 @@
+Column,Data Type,Missing Values,Unique Values
+Order ID,int64,0,254
+Date,str,0,53
+Product,string,0,5
+Price,float64,0,7
+Quantity,float64,0,29
+Purchase Type,string,0,3
+Payment Method,string,0,3
+Manager,string,0,12
+City,string,0,5
+Revenue,float64,0,31
+Expected Revenue,float64,0,31
+Revenue Difference,float64,0,1
+Revenue Matches,bool,0,1
