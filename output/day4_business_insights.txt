@@ -1,0 +1,11 @@
+VYNORA BUSINESSPULSE - DAY 4 INSIGHTS
+=============================================
+
+1. Product Insight: Burgers generated the highest recorded revenue (376,999.81).
+
+2. Product Review: Sides & Other had the lowest recorded revenue (48,999.80). Review its sales volume and costs before making decisions.
+
+3. Sales Timing: Wednesday had the highest total recorded revenue among weekdays.
+
+4. Payment Insight:  Credit Card accounted for the highest recorded revenue among payment methods.
+
